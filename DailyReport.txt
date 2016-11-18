@@ -1,6 +1,6 @@
 Nov, 17, 2016 (Done by Natalie)
 
-1) Install MAMP. 
+1) Install MAMP.(Mac local server environment for dynamic web programming testing) 
 2) Follow https://www.youtube.com/watch?v=TPHQy22-2FE video to create the “hello” project. 
 3) Modify the “hello” project and create the “search’ project. 
 
@@ -18,4 +18,4 @@ Todo:
 1) Create a dropDown menu from the database to populate the school names. (let the users choose from the menu).
 2) Pass the user’s selection from html -> .js -> php -> database to display school information on demand. 
 3) Enable scoring for each school. (dynamically calculate the average).
-4) Move the server & database from localhost to cloud.
+4) Move the server & database from localhost to cloud. (install LAMP on AWS ubuntu instance)
