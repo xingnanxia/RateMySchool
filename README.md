@@ -29,7 +29,9 @@ Search Project:
 Review Project: 
 
 1) Created a database table of Vanderbilt University that stores all reviews (including country, year, review).
+
 2) Created an html form for writing reviews, and submit the result to php.
+
 3) php store the form as an entry into the database table. 
 
 Todo: 
