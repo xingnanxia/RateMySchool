@@ -23,6 +23,13 @@ Search Project:
 
 4. wrote methods that displays school title and school description when the user clicks a school on the dropdown menu
 
+
+
+Review Project: 
+1. Created a database table of Vanderbilt University that stores all reviews (including country, year, review).
+2. Created an html form for writing reviews, and submit the result to php.
+3. php store the form as an entry into the database table. 
+
 Todo: 
 
 1) create school aspect buttons: engineering, computer science, math and finance, other(workload, professors, research),
@@ -31,7 +38,7 @@ overall experience
 
 2) enable users to review the ratings and reviews of different aspects of a certain school
 
-3) enable users to rate schools and submit new reviews
+3) enable users to rate schools (dynamically change the overall rating of the school)
 
 4) add the information of top 50 schools to the database
 
