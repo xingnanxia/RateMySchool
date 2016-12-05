@@ -14,10 +14,14 @@ Xingnan Xia, Zhe Wang
 ## Browser Support 
 
 This component has been tested in the following brosers: 
- ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png)  ![Safari](https://raw.githubusercontent.com/callmenick/browser-logos/master/safari/safari_48x48.png) |
+ ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png)  ![Safari](https://raw.githubusercontent.com/callmenick/browser-logos/master/safari/safari_48x48.png) 
 
 
 ## Citations
 
 1) Five Stars Rating: 
+  https://github.com/callmenick/five-star-rating.git
+  
+  
+  
   
