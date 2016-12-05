@@ -27,8 +27,8 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 
 
-  
-## Midterm report, Daily report
-see oldStuff folder
+## Oldstuff Folder
+mid-term report etc. 
+
   
   
