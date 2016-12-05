@@ -26,8 +26,9 @@ This component has been tested in the following brosers:
 http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 
+
   
 ## Midterm report, Daily report
-see oldStuff
+see oldStuff folder
   
   
