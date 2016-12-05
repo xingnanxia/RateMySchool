@@ -15,3 +15,12 @@ Xingnan Xia, Zhe Wang
 
 This component has been tested in the following brosers: 
 | ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/chrome/chrome_48x48.png) | ![Safari](https://raw.githubusercontent.com/callmenick/browser-logos/master/safari/safari_48x48.png) |
+
+|:-:|:-:|
+
+| Chrome 46.0+ | Safari 9.0+ |
+
+## Citations
+
+1) Five Stars Rating: 
+  
