@@ -32,11 +32,17 @@ mid-term report,
 hello world project
 
 ## final-search
+
 final submission
+
 index.html --the main html file
+
 php folder: php scripts
+
 js: javascript sctipts
-lib: jquery source file
+
+lib: jquery library source file
+
 
 
 
