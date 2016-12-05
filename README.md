@@ -22,6 +22,11 @@ This component has been tested in the following brosers:
 1) Five Stars Rating: 
   https://github.com/callmenick/five-star-rating.git
   
+2) Dropdown menu: 
+http://www.w3schools.com/howto/howto_js_dropdown.asp
+
+
+  
   
   
   
