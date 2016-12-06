@@ -50,9 +50,9 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
   `final submission`
 
-  `index.html` --the main html file
+  `index.html` --the main html file (including some javascripts, css, html)
 
-  `php folder`: php scripts
+  `php folder`: php scripts 
 
   `js folder`: javascript scripts (src/rating.js is cited)
 
