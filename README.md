@@ -42,21 +42,21 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 1) oldStuff: 
 
-mid-term report,
-hello world project
+  mid-term report,
+  hello world project
 
 
 2) finalSearch:
 
-final submission
+  final submission
 
-index.html --the main html file
+  index.html --the main html file
 
-php folder: php scripts
+  php folder: php scripts
 
-js: javascript sctipts
+  js: javascript sctipts
 
-lib: jquery library source file
+  lib: jquery library source file
 
 
 
