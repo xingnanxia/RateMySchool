@@ -68,8 +68,12 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 In order to set up database, we used phpMyAdmin on MAMP. We created a database called "universities". There are two tables in the database: "collge_rating" and "reviews". "college_rating" table has id, name, description and all the ratings and counts for each college; while "reviews" table stores all reviews, each has id, country, year, review, field and school. 
 
 The following are some screenShots of the database: 
+
+![Alt text](/screenShots/universities.png?raw=true "universities table")
     
-![Alt text](/screenShots/college_rating.png?raw=true "College Rating")
+![Alt text](/screenShots/college_rating.png?raw=true "College Rating table")
+
+![Alt text](/screenShots/reviews.png?raw=true "Reviews table")
  
 We used MAMP for local testing. To do that, simply download MAMP. In 'preferences', set Apache Port, Nginx Port to 80 and MySQL port to 3306, and then drag the downloaded finalSearch folder into Applications/MAMP/htdocs. Then, type 'localhost/finalSearch' in your web browser to use the website.
 
