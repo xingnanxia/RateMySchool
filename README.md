@@ -40,13 +40,13 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 ##  File Description
 
-1) oldStuff: 
+1) oldStuff folder: 
 
   mid-term report,
   hello world project
 
 
-2) finalSearch:
+2) finalSearch folder:
 
   final submission
 
@@ -54,9 +54,9 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
   php folder: php scripts
 
-  js: javascript sctipts
+  js folder: javascript sctipts
 
-  lib: jquery library source file
+  lib folder: jquery library source file
 
 
 
