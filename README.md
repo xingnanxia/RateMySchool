@@ -40,13 +40,13 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 ##  File Description
 
-oldStuff: 
+# oldStuff: 
 
 mid-term report,
 hello world project
 
 
-final-search:
+# finalSearch:
 
 final submission
 
