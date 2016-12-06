@@ -69,7 +69,7 @@ In order to set up database, we used phpMyAdmin on MAMP. We created a database c
 
 The following are some screenShots of the database: 
     
-![Alt text](/screenShots/college_rating.jpg?raw=true "College Rating")
+![Alt text](/screenShots/college_rating.png?raw=true "College Rating")
  
 We used MAMP for local testing. To do that, simply download MAMP. In 'preferences', set Apache Port, Nginx Port to 80 and MySQL port to 3306, and then drag the downloaded finalSearch folder into Applications/MAMP/htdocs. Then, type 'localhost/finalSearch' in your web browser to use the website.
 
