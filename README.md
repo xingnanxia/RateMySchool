@@ -13,7 +13,7 @@ Then, the user can view all the reviews and updated rating for 9 different categ
 
 The user can also submit his/her own rating by hovering over the starts field, and submit his/her own review. After that, the user need to click some other buttons and go back to see the updated rating/reviews. 
 
-The ratings are calculated by keeping records of rateingCount and ratingAverage for every category in the database. Everytime a user submits a new review:
+The ratings are calculated by keeping records of ratingCount and ratingAverage for every category in the database. Everytime a user submits a new review, the following codes are excuted to update the related entries in the database:
 
 ratingAverage= (ratingAverage*ratingCount+ newRating )/ (ratingCount+1)
 
