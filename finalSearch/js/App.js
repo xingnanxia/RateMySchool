@@ -1,5 +1,10 @@
 //Javascript document 
 
+/*
+	Authors: Xingnan Xia, Zhe Wang
+
+*/
+
 function getData(collegeName){
 
 	//send the name over to the php file.

@@ -1,10 +1,14 @@
 <?php
 
 /*
+	Description: 
 	This is the php script that handles 
 		1) populating the college drop-down menu
 		2) displaying college information 
 		3) displaying all reviews for a given college
+	
+	Authors: 		Xingnan Xia, Zhe Wang
+	Last Modified: 	Dec,5,2016	
 */
 
 //gets all the school names from the database

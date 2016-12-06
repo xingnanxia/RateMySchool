@@ -4,6 +4,9 @@
 	This is the php script that handles updating the current rating and count of a given field.
 	New rating is calculated as newRating = (oldRating * oldCount + newRating) / (oldCount + 1)
 	newCount = oldCount + 1
+	
+	Author: 		Xingnan Xia
+	Last Modified: 	Dec,5,2016	
 
 */
 
