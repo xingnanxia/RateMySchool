@@ -38,12 +38,15 @@ This component has been tested in the following brosers:
 http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 
+##  File Description
 
-## Oldstuff
+oldStuff: 
+
 mid-term report,
 hello world project
 
-## final-search
+
+final-search:
 
 final submission
 
