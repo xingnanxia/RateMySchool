@@ -5,7 +5,7 @@
 	New rating is calculated as newRating = (oldRating * oldCount + newRating) / (oldCount + 1)
 	newCount = oldCount + 1
 	
-	Author: 		Xingnan Xia
+	Author: Xingnan Xia
 	Last Modified: 	Dec,5,2016	
 
 */

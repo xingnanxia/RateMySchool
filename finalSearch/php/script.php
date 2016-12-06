@@ -7,7 +7,7 @@
 		2) displaying college information 
 		3) displaying all reviews for a given college
 	
-	Authors: 		Xingnan Xia, Zhe Wang
+	Authors: Xingnan Xia, Zhe Wang
 	Last Modified: 	Dec,5,2016	
 */
 

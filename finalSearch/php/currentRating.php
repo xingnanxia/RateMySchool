@@ -4,7 +4,7 @@
 	This is the php script that handles getting the current rating of a field.
 	It returns the current rating of the given field of the given college upon success.
 	
-	Author: 		Xingnan Xia
+	Author: Xingnan Xia
 	Last Modified: 	Dec,5,2016	
 */
 

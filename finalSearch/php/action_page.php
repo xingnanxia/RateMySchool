@@ -5,7 +5,7 @@
 	It stores the form into the database, and return "Your review has been recorded" upon success;
 	It returns the error message upon failure.
 	
-	Authors: 		Xingnan Xia, Zhe Wang
+	Authors: Xingnan Xia, Zhe Wang
 	Last Modified: 	Dec,5,2016	
 */
 
