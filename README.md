@@ -48,7 +48,7 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
 2) finalSearch folder:
 
-  final submission
+  `final submission`
 
   index.html --the main html file
 
