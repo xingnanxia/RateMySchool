@@ -5,6 +5,8 @@ This is a website that allows international students to rate and write reviews a
 
 Client-side technologies used are HTML, CSS, and Javascript; Server-side technologies used are php and mySQL. 
 
+
+## Usage
 The user can review all the schools in the database by clicking the 'Colleges' button. The user can either choose a school on the dropdown list directly or type part of the school name to narrow down the search. 
 
 Then, the user can view all the reviews and updated rating for 9 different categories: Engineering, Computer Science, Math and Finance, After Graduation, Professional Support, Food, Financial Aid and Scholarship, Campus Inclusivity, and Overall Experience. 
