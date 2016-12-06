@@ -54,11 +54,17 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
   php folder: php scripts
 
-  js folder: javascript sctipts
+  js folder: javascript scripts (src/rating.js is cited)
 
-  lib folder: jquery library source file
+  lib folder: jquery library source file (cited)
 
+  css folder: defined style for five stars (cited)
+  
+  img folder: supply image for five stars (cited)
+  
 
+## Local Testing & Database 
+ 
 
 
 
