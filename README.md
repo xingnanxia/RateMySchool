@@ -50,17 +50,17 @@ http://www.w3schools.com/howto/howto_js_dropdown.asp
 
   `final submission`
 
-  index.html --the main html file
+  `index.html` --the main html file
 
-  php folder: php scripts
+  `php folder`: php scripts
 
-  js folder: javascript scripts (src/rating.js is cited)
+  `js folder`: javascript scripts (src/rating.js is cited)
 
-  lib folder: jquery library source file (cited)
+  `lib folder`: jquery library source file (cited)
 
-  css folder: defined style for five stars (cited)
+  `css folder`: defined style for five stars (cited)
   
-  img folder: supply image for five stars (cited)
+  `img folder`: supply image for five stars (cited)
   
 
 ## Local Testing & Database 
